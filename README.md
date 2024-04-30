@@ -1,1 +1,1 @@
-Ensemble d'application/ projet en reinforcement leanring ue j'ai pu faire tout au long de ma scolarité 
+Ensemble d'applications/projets en apprentissage par renforcement (RL) que j'ai pu réaliser en groupe ou tout seul 
